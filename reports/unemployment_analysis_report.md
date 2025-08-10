@@ -34,25 +34,25 @@ The analysis was conducted in several stages:
 
 The distribution of the estimated unemployment rate shows a concentration around 5-15%, with some higher peaks, particularly during the COVID-19 lockdown period. This indicates significant variability in unemployment rates across regions and periods.
 
-![Distribution of Estimated Unemployment Rate](../images/unemployment_rate_distribution.png)
+![Distribution of Estimated Unemployment Rate](/images/unemployment_rate_distribution.png)
 
 ### 2. Unemployment Rate by Region Category
 
 Analysis by region category reveals disparities. Some regions, like the Northeast, appear to have generally lower unemployment rates, while others, like the East and North, show greater variability and higher extreme values.
 
-![Estimated Unemployment Rate by Region Category](../images/unemployment_rate_by_region_category.png)
+![Estimated Unemployment Rate by Region Category](/images/unemployment_rate_by_region_category.png)
 
 ### 3. Average Unemployment Rate Over Time (All Regions)
 
 The graph below illustrates the evolution of the average unemployment rate aggregated across all regions. A drastic increase in unemployment is observed around April-May 2020, coinciding with strict lockdown measures imposed in India. The rate then gradually decreases but remains higher than pre-pandemic levels towards the end of the year.
 
-![Average Estimated Unemployment Rate Over Time (All Regions)](../images/average_unemployment_rate_overall.png)
+![Average Estimated Unemployment Rate Over Time (All Regions)](/images/average_unemployment_rate_overall.png)
 
 ### 4. Monthly Unemployment Trends
 
 Monthly analysis of the average unemployment rate confirms the peak in April and May 2020. This highlights the seasonal or event-driven nature of certain fluctuations, strongly influenced by the pandemic.
 
-![Average Estimated Unemployment Rate by Month (Overall)](../images/monthly_unemployment_trends.png)
+![Average Estimated Unemployment Rate by Month (Overall)](/images/monthly_unemployment_trends.png)
 
 ### 5. COVID-19 Impact: Pre-COVID, Peak, and Post-Peak Comparison
 
@@ -66,13 +66,13 @@ Average unemployment rates by region category confirm the significant impact of 
 
 This graph highlights the regions that experienced the highest unemployment rates during the peak period of the pandemic. Tripura, Bihar, and Delhi are among the most severely affected regions, underscoring the need for targeted interventions in these areas.
 
-![Top 10 Regions with Highest Average Unemployment Rate During Peak COVID](..//images/top_10_regions_peak_covid.png)
+![Top 10 Regions with Highest Average Unemployment Rate During Peak COVID](/images/top_10_regions_peak_covid.png)
 
 ### 7. Correlation Heatmap
 
 The correlation heatmap between the unemployment rate, the number of employed individuals, and the labor participation rate reveals important relationships. A negative correlation is observed between the unemployment rate and the number of employed, which is expected. The relationship with the labor participation rate is also interesting and warrants further exploration.
 
-![Correlation Heatmap of Key Economic Indicators](../images/correlation_heatmap.png)
+![Correlation Heatmap of Key Economic Indicators](/images/correlation_heatmap.png)
 
 ## Conclusion and Policy Implications
 
