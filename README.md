@@ -93,7 +93,6 @@ unemployment_analysis_project/
 │   └── unemployment_analysis_report.md             # Detailed analysis report
 ├── images/
 │   ├── average_unemployment_rate_overall.png       # Overall trend analysis
-│   ├── cleaned_unemployment_data.csv               # Processed dataset
 │   ├── correlation_heatmap.png                     # Correlation analysis
 │   ├── monthly_unemployment_trends.png             # Monthly trend patterns
 │   ├── top_10_regions_peak_covid.png               # Most affected regions
